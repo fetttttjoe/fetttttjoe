@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @fetttttjoe
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning client/server sided automation
+
+
 #- 💞️ I’m looking to collaborate on ...
 #- 📫 How to reach me ...
 
